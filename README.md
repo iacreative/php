@@ -1,2 +1,2 @@
 # php
-Repositória para apps em PHP
+Repositório para apps em PHP
